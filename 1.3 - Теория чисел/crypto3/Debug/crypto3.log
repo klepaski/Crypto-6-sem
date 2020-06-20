@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  crypto3.cpp
+d:\3\кмзи\1.3 - теория чисел\crypto3\crypto3.cpp(147): warning C4101: y: неиспользованная локальная переменная
+d:\3\кмзи\1.3 - теория чисел\crypto3\crypto3.cpp(147): warning C4101: x: неиспользованная локальная переменная
+  crypto3.vcxproj -> D:\3\КМЗИ\1.3 - Теория чисел\Debug\crypto3.exe
