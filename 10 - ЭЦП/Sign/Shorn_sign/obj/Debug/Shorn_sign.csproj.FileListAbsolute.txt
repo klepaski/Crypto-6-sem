@@ -1,0 +1,7 @@
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csprojAssemblyReference.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb

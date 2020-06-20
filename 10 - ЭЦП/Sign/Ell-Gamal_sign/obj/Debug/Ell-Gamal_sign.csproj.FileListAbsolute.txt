@@ -1,0 +1,6 @@
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe.config
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.pdb
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.pdb
