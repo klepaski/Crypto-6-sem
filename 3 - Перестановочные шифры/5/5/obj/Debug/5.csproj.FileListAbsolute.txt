@@ -1,0 +1,16 @@
+D:\3\КМЗИ\5\5\5\bin\Debug\5.exe.config
+D:\3\КМЗИ\5\5\5\bin\Debug\5.exe
+D:\3\КМЗИ\5\5\5\bin\Debug\5.pdb
+D:\3\КМЗИ\5\5\5\obj\Debug\5.csprojAssemblyReference.cache
+D:\3\КМЗИ\5\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\5\5\5\obj\Debug\5.exe
+D:\3\КМЗИ\5\5\5\obj\Debug\5.pdb
+D:\3\КМЗИ\5\5\5\obj\Debug\5.csproj.ResolveComReference.cache
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\bin\Debug\5.exe.config
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\bin\Debug\5.exe
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\bin\Debug\5.pdb
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\obj\Debug\5.csprojAssemblyReference.cache
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\obj\Debug\5.csproj.ResolveComReference.cache
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\obj\Debug\5.exe
+D:\3\КМЗИ\3 - Перестановочные шифры\5\5\obj\Debug\5.pdb
