@@ -1,0 +1,27 @@
+D:\3\КМЗИ\3\3\bin\Debug\3.exe.config
+D:\3\КМЗИ\3\3\bin\Debug\3.exe
+D:\3\КМЗИ\3\3\bin\Debug\3.pdb
+D:\3\КМЗИ\3\3\obj\Debug\3.csprojAssemblyReference.cache
+D:\3\КМЗИ\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\3\3\obj\Debug\3.exe
+D:\3\КМЗИ\3\3\obj\Debug\3.pdb
+D:\3\КМЗИ\3\3\obj\Debug\Interop.ACTIVEXLib.dll
+D:\3\КМЗИ\3\3\obj\Debug\3.csproj.ResolveComReference.cache
+D:\3\КМЗИ\4\3\bin\Debug\3.exe.config
+D:\3\КМЗИ\4\3\bin\Debug\3.exe
+D:\3\КМЗИ\4\3\bin\Debug\3.pdb
+D:\3\КМЗИ\4\3\obj\Debug\3.csprojAssemblyReference.cache
+D:\3\КМЗИ\4\3\obj\Debug\Interop.ACTIVEXLib.dll
+D:\3\КМЗИ\4\3\obj\Debug\3.csproj.ResolveComReference.cache
+D:\3\КМЗИ\4\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\4\3\obj\Debug\3.exe
+D:\3\КМЗИ\4\3\obj\Debug\3.pdb
+D:\3\КМЗИ\2 - Подстановочные шифры\3\bin\Debug\3.exe.config
+D:\3\КМЗИ\2 - Подстановочные шифры\3\bin\Debug\3.exe
+D:\3\КМЗИ\2 - Подстановочные шифры\3\bin\Debug\3.pdb
+D:\3\КМЗИ\2 - Подстановочные шифры\3\obj\Debug\3.csprojAssemblyReference.cache
+D:\3\КМЗИ\2 - Подстановочные шифры\3\obj\Debug\Interop.ACTIVEXLib.dll
+D:\3\КМЗИ\2 - Подстановочные шифры\3\obj\Debug\3.csproj.ResolveComReference.cache
+D:\3\КМЗИ\2 - Подстановочные шифры\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\2 - Подстановочные шифры\3\obj\Debug\3.exe
+D:\3\КМЗИ\2 - Подстановочные шифры\3\obj\Debug\3.pdb
